@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.d3080123.chunk.css",
-    "main.js": "/static/js/main.92c94008.chunk.js",
-    "main.js.map": "/static/js/main.92c94008.chunk.js.map",
+    "main.css": "/static/css/main.1d98f42c.chunk.css",
+    "main.js": "/static/js/main.a3af45f6.chunk.js",
+    "main.js.map": "/static/js/main.a3af45f6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5f8a695d.js",
     "runtime-main.js.map": "/static/js/runtime-main.5f8a695d.js.map",
     "static/js/2.1149939f.chunk.js": "/static/js/2.1149939f.chunk.js",
     "static/js/2.1149939f.chunk.js.map": "/static/js/2.1149939f.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.d3080123.chunk.css.map": "/static/css/main.d3080123.chunk.css.map",
+    "static/css/main.1d98f42c.chunk.css.map": "/static/css/main.1d98f42c.chunk.css.map",
     "static/js/2.1149939f.chunk.js.LICENSE.txt": "/static/js/2.1149939f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/ZenDots.f8bb133a.ttf",
     "static/media/android.0feb8167.svg": "/static/media/android.0feb8167.svg",
@@ -24,12 +24,15 @@
     "static/media/mysql.f6cec086.svg": "/static/media/mysql.f6cec086.svg",
     "static/media/nodejs.52cbf9a8.svg": "/static/media/nodejs.52cbf9a8.svg",
     "static/media/npm.5066c092.svg": "/static/media/npm.5066c092.svg",
+    "static/media/oxium.46316df7.png": "/static/media/oxium.46316df7.png",
     "static/media/php.7c41b199.svg": "/static/media/php.7c41b199.svg",
+    "static/media/prestashop.1ac21b27.svg": "/static/media/prestashop.1ac21b27.svg",
     "static/media/prettier.93cb7bb3.svg": "/static/media/prettier.93cb7bb3.svg",
     "static/media/react.e68b35f4.svg": "/static/media/react.e68b35f4.svg",
     "static/media/redux.0e4fb1c8.svg": "/static/media/redux.0e4fb1c8.svg",
     "static/media/spring.b701f1fc.svg": "/static/media/spring.b701f1fc.svg",
     "static/media/tailwind.68603ef4.svg": "/static/media/tailwind.68603ef4.svg",
+    "static/media/ufm.d12cdd44.png": "/static/media/ufm.d12cdd44.png",
     "static/media/uptap.6f43eca0.png": "/static/media/uptap.6f43eca0.png",
     "static/media/vue.f04dfe30.svg": "/static/media/vue.f04dfe30.svg",
     "static/media/vuetify.c3ac4b61.svg": "/static/media/vuetify.c3ac4b61.svg"
@@ -37,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.5f8a695d.js",
     "static/js/2.1149939f.chunk.js",
-    "static/css/main.d3080123.chunk.css",
-    "static/js/main.92c94008.chunk.js"
+    "static/css/main.1d98f42c.chunk.css",
+    "static/js/main.a3af45f6.chunk.js"
   ]
 }
