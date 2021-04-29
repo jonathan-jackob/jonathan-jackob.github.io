@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c82da69c.chunk.css",
+    "main.js": "/static/js/main.846274a6.chunk.js",
+    "main.js.map": "/static/js/main.846274a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5f8a695d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5f8a695d.js.map",
+    "static/js/2.efb84dcc.chunk.js": "/static/js/2.efb84dcc.chunk.js",
+    "static/js/2.efb84dcc.chunk.js.map": "/static/js/2.efb84dcc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c82da69c.chunk.css.map": "/static/css/main.c82da69c.chunk.css.map",
+    "static/js/2.efb84dcc.chunk.js.LICENSE.txt": "/static/js/2.efb84dcc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/ZenDots.f8bb133a.ttf",
+    "static/media/android.0feb8167.svg": "/static/media/android.0feb8167.svg",
+    "static/media/arduino.5e8b9530.svg": "/static/media/arduino.5e8b9530.svg",
+    "static/media/bootstrap.997c463d.svg": "/static/media/bootstrap.997c463d.svg",
+    "static/media/css.8fba365c.svg": "/static/media/css.8fba365c.svg",
+    "static/media/html.3efc40a5.svg": "/static/media/html.3efc40a5.svg",
+    "static/media/jacob.2745bf15.jpg": "/static/media/jacob.2745bf15.jpg",
+    "static/media/java.a351f739.svg": "/static/media/java.a351f739.svg",
+    "static/media/javascript.00f3e5cf.svg": "/static/media/javascript.00f3e5cf.svg",
+    "static/media/jquery.a7204256.svg": "/static/media/jquery.a7204256.svg",
+    "static/media/laravel.ba995bd4.svg": "/static/media/laravel.ba995bd4.svg",
+    "static/media/mysql.f6cec086.svg": "/static/media/mysql.f6cec086.svg",
+    "static/media/nodejs.52cbf9a8.svg": "/static/media/nodejs.52cbf9a8.svg",
+    "static/media/npm.5066c092.svg": "/static/media/npm.5066c092.svg",
+    "static/media/php.7c41b199.svg": "/static/media/php.7c41b199.svg",
+    "static/media/prettier.93cb7bb3.svg": "/static/media/prettier.93cb7bb3.svg",
+    "static/media/react.e68b35f4.svg": "/static/media/react.e68b35f4.svg",
+    "static/media/redux.0e4fb1c8.svg": "/static/media/redux.0e4fb1c8.svg",
+    "static/media/spring.b701f1fc.svg": "/static/media/spring.b701f1fc.svg",
+    "static/media/tailwind.68603ef4.svg": "/static/media/tailwind.68603ef4.svg",
+    "static/media/uptap.6f43eca0.png": "/static/media/uptap.6f43eca0.png",
+    "static/media/vue.f04dfe30.svg": "/static/media/vue.f04dfe30.svg",
+    "static/media/vuetify.c3ac4b61.svg": "/static/media/vuetify.c3ac4b61.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f8a695d.js",
+    "static/js/2.efb84dcc.chunk.js",
+    "static/css/main.c82da69c.chunk.css",
+    "static/js/main.846274a6.chunk.js"
+  ]
+}
