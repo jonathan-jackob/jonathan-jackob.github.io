@@ -1,0 +1,10 @@
+{
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "static/iwanna.png": "static/iwanna-bcb034fc0a4eee9b26222f02ed1784ce.png",
+  "static/jacob.jpg": "static/jacob-2745bf15bed005abd8bd80e2f783dfca.jpg",
+  "static/oxium.png": "static/oxium-46316df7745d7ddc8283e2c718b407d9.png",
+  "static/prestashop.svg": "static/prestashop-1ac21b27b0e38dcfdb31dbb73e11a85a.svg",
+  "static/ufm.png": "static/ufm-d12cdd442c8501705f9785a101f14c0c.png",
+  "static/uptap.png": "static/uptap-6f43eca095d2baaf905d7538105c80bd.png"
+}
